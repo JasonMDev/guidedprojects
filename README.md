@@ -9,3 +9,4 @@ See [*link*](https://www.dataquest.io/).
 
 ## Guided Project Index: 
 * [GP01: Using Jupyter notebook](jupyter-files/GP01.ipynb)
+* [GP02: Explore U.S. Births](jupyter-files/GP02.ipynb)
