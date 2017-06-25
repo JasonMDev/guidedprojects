@@ -2,7 +2,7 @@
 ## Introduction
 This is a duplicate of the work done during the Data Science track in [*Dataquest*](https://www.dataquest.io/). The aim is to reinforce the topics I have learnt throughout the course.
 
-### Extract from [*Dataquestlink*](https://www.dataquest.io/)  to give a better understanding.
+### Extract from [*Dataquest*](https://www.dataquest.io/)  to give a better understanding.
 
 > "Guided projects, on the other hand, are less structured and focus more on exploration. Guided projects help you synthesize concepts learned during the Dataquest missions and start building a portfolio. Guided projects bridge the gap between learning using the Dataquest missions, and applying the knowledge on your own computer."
 
