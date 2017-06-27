@@ -20,20 +20,31 @@ This is a duplicate of the work done during the Data Science track in [*Dataques
 * [GP08: Star Wars Survey](d)
 
 ### 3: The Command Line
-* [GP10: Working With Data Downloads](d)
-* [GP11: Transforming Data With Python](d)
+* [GP09: Working With Data Downloads](d)
+* [GP10: Transforming Data With Python](d)
 
 ### 4: Working With Data Sources
-* [GP12: Working With A SQLite Database](d)
+* [GP11: Working With A SQLite Database](d)
+* [GP12: Preparing Data For SQLite](d)
+* [GP13: Creating Relations In SQLite](d)
 
 ### 5: Statistics And Linear Algebra
+* [GP14: Analyzing Movie Reviews](d)
+* [GP15: Winning Jeopardy](d)
 
 ### 6: Machine Learning
+* [GP16: Predicting Board Game Reviews](d)
+* [GP17: Predicting The Stock Market](d)
+* [GP18: Predicting Bike Rentals](d)
 
 ### 7: Advanced Python And Computer Science
+* [GP19: Investigating Airplane Accidents](d)
 
 ### 8: Advanced Topics In Data Science
+none
 
 ### 9: Working With Large Datasets
+none
 
 ### 10: Learning R
+none
