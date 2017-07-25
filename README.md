@@ -14,7 +14,7 @@ This is a duplicate of the work done during the Data Science track in [*Dataques
 
 ### 2: Data Analysis And Visualization
 * [GP04: Analyzing Thanksgiving Dinner](jupyter-files/GP04.ipynb)
-* [GP05: Visualizing Earnings Based On College Majors](d)
+* [GP05: Visualizing Earnings Based On College Majors](jupyter-files/GP05.ipynb)
 * [GP06: Visualizing The Gender Gap In College Degrees](d)
 * [GP07: Analyzing NYC High School Data](d)
 * [GP08: Star Wars Survey](d)
