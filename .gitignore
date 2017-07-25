@@ -5,7 +5,7 @@ temp.json
 # used with API key
 private.py
 
-# ignore data files
+# Data files to ignore
 2015_white_house.csv
 births.csv
 US_births_1994-2003_CDC_NCHS.csv
