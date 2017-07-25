@@ -10,7 +10,7 @@ This is a duplicate of the work done during the Data Science track in [*Dataques
 ### 1: Python Introduction
 * [GP01: Using Jupyter notebook](jupyter-files/GP01.ipynb)
 * [GP02: Explore U.S. Births](jupyter-files/GP02.ipynb)
-* [GP03: Exploring Gun Deaths In The US](d)
+* [GP03: Exploring Gun Deaths In The US](jupyter-files/GP03.ipynb)
 
 ### 2: Data Analysis And Visualization
 * [GP04: Analyzing Thanksgiving Dinner](d)

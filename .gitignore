@@ -10,6 +10,7 @@ private.py
 births.csv
 US_births_1994-2003_CDC_NCHS.csv
 US_births_2000-2014_SSA.csv
+guns.csv
 
 # Dataquest
 .DS_Store
@@ -117,4 +118,3 @@ ENV/
 
 # mypy
 .mypy_cache/
-
