@@ -13,7 +13,7 @@ This is a duplicate of the work done during the Data Science track in [*Dataques
 * [GP03: Exploring Gun Deaths In The US](jupyter-files/GP03.ipynb)
 
 ### 2: Data Analysis And Visualization
-* [GP04: Analyzing Thanksgiving Dinner](d)
+* [GP04: Analyzing Thanksgiving Dinner](jupyter-files/GP04.ipynb)
 * [GP05: Visualizing Earnings Based On College Majors](d)
 * [GP06: Visualizing The Gender Gap In College Degrees](d)
 * [GP07: Analyzing NYC High School Data](d)
