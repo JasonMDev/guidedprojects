@@ -14,6 +14,14 @@ guns.csv
 thanksgiving.csv
 recent-grads.csv
 percent-bachelors-degrees-women-usa.csv
+ap_2010.csv
+class_size.csv
+demographics.csv
+graduation.csv
+hs_directory.csv
+sat_results.csv
+survey_all.txt
+survey_d75.txt
 
 # Dataquest
 .DS_Store

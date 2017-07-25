@@ -16,7 +16,7 @@ This is a duplicate of the work done during the Data Science track in [*Dataques
 * [GP04: Analyzing Thanksgiving Dinner](jupyter-files/GP04.ipynb)
 * [GP05: Visualizing Earnings Based On College Majors](jupyter-files/GP05.ipynb)
 * [GP06: Visualizing The Gender Gap In College Degrees](jupyter-files/GP06.ipynb)
-* [GP07: Analyzing NYC High School Data](d)
+* [GP07: Analyzing NYC High School Data](jupyter-files/GP07.ipynb)
 * [GP08: Star Wars Survey](d)
 
 ### 3: The Command Line
