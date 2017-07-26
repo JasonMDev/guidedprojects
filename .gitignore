@@ -26,6 +26,7 @@ star_wars.csv
 academy_awards.csv
 nominations.db
 fandango_score_comparison.csv
+jeopardy.csv
 
 # Dataquest
 .DS_Store

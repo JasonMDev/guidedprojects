@@ -31,12 +31,10 @@ This is a duplicate of the work done during the Data Science track in [*Dataques
 * [GP12: Winning Jeopardy](jupyter-files/GP12.ipynb)
 
 ### 6: Machine Learning
-* [GP13: Predicting Board Game Reviews](d)
-* [GP14: Predicting The Stock Market](d)
-* [GP15: Predicting Bike Rentals](d)
+* [GP13: Predicting The Stock Market](jupyter-files/GP13.ipynb)
 
 ### 7: Advanced Python And Computer Science
-* [GP16: Investigating Airplane Accidents](d)
+* none
 
 ### 8: Advanced Topics In Data Science
 * none
