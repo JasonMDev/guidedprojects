@@ -23,6 +23,8 @@ sat_results.csv
 survey_all.txt
 survey_d75.txt
 star_wars.csv
+academy_awards.csv
+nominations.db
 
 # Dataquest
 .DS_Store

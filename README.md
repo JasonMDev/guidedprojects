@@ -20,13 +20,11 @@ This is a duplicate of the work done during the Data Science track in [*Dataques
 * [GP08: Star Wars Survey](jupyter-files/GP08.ipynb)
 
 ### 3: The Command Line
-* [GP09: Working With Data Downloads](d)
-* [GP10: Transforming Data With Python](d)
+* none
 
 ### 4: Working With Data Sources
-* [GP11: Working With A SQLite Database](d)
-* [GP12: Preparing Data For SQLite](d)
-* [GP13: Creating Relations In SQLite](d)
+* [GP09: Preparing Data For SQLite](jupyter-files/GP09.ipynb)
+* [GP10: Creating Relations In SQLite](jupyter-files/GP10.ipynb)
 
 ### 5: Statistics And Linear Algebra
 * [GP14: Analyzing Movie Reviews](d)
@@ -41,10 +39,10 @@ This is a duplicate of the work done during the Data Science track in [*Dataques
 * [GP19: Investigating Airplane Accidents](d)
 
 ### 8: Advanced Topics In Data Science
-none
+* none
 
 ### 9: Working With Large Datasets
-none
+* none
 
 ### 10: Learning R
-none
+* none
