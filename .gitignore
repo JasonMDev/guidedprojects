@@ -22,6 +22,7 @@ hs_directory.csv
 sat_results.csv
 survey_all.txt
 survey_d75.txt
+star_wars.csv
 
 # Dataquest
 .DS_Store
