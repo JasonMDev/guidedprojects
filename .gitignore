@@ -25,6 +25,7 @@ survey_d75.txt
 star_wars.csv
 academy_awards.csv
 nominations.db
+fandango_score_comparison.csv
 
 # Dataquest
 .DS_Store

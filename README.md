@@ -27,16 +27,16 @@ This is a duplicate of the work done during the Data Science track in [*Dataques
 * [GP10: Creating Relations In SQLite](jupyter-files/GP10.ipynb)
 
 ### 5: Statistics And Linear Algebra
-* [GP14: Analyzing Movie Reviews](d)
-* [GP15: Winning Jeopardy](d)
+* [GP11: Analyzing Movie Reviews](jupyter-files/GP11.ipynb)
+* [GP12: Winning Jeopardy](jupyter-files/GP12.ipynb)
 
 ### 6: Machine Learning
-* [GP16: Predicting Board Game Reviews](d)
-* [GP17: Predicting The Stock Market](d)
-* [GP18: Predicting Bike Rentals](d)
+* [GP13: Predicting Board Game Reviews](d)
+* [GP14: Predicting The Stock Market](d)
+* [GP15: Predicting Bike Rentals](d)
 
 ### 7: Advanced Python And Computer Science
-* [GP19: Investigating Airplane Accidents](d)
+* [GP16: Investigating Airplane Accidents](d)
 
 ### 8: Advanced Topics In Data Science
 * none
